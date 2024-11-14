@@ -9,7 +9,7 @@ Using [htmx](https://htmx.org/) we can load in external fragments to our prototy
 
 ## Getting started
 
-```
+```bash
 npm i https://github.com/htmlandbacon/govuk-prototype-kit-htmx.git
 ```
 
@@ -19,7 +19,7 @@ You'll need to include any styles in your prototype from the fragments you are c
 
 Example of a key details call
 
-```
+```jinja
 {{ "https://dwp-design-system-dc-efd51ee857dc.herokuapp.com/partials/key-details/1" | htmx.onload }}
 ```
 
