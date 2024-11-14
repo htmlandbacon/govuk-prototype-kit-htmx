@@ -1,0 +1,8 @@
+{
+        "nunjucksFilters": [
+          "/filters.js"
+        ],
+        "scripts": [
+            "/htmx.org/dist/htmx.min.js"
+    ]
+}

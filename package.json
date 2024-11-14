@@ -1,0 +1,11 @@
+{
+  "name": "govuk-prototype-kit-htmx",
+  "version": "0.1.0",
+  "description": "Plugin to use htmx in the govuk prototype toolkit",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
